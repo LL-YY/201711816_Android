@@ -14,7 +14,7 @@ public class FristActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d("FirsstActivity",this.toString());
+        Log.d("FirsstActivity","Task id is"+getTaskId());
         setContentView(R.layout.activity_frist);
         Button hello1=(Button)findViewById(R.id.button1);
         Button hello2=(Button) findViewById(R.id.button2);
@@ -68,5 +68,5 @@ public class FristActivity extends AppCompatActivity {
         super.onRestart();
         Log.d(TAG,"onRestart");
     }
-    
+
 }
