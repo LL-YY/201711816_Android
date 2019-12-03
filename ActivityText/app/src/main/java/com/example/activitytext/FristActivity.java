@@ -68,4 +68,5 @@ public class FristActivity extends AppCompatActivity {
         super.onRestart();
         Log.d(TAG,"onRestart");
     }
+    
 }
