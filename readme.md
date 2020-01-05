@@ -1,6 +1,6 @@
 # 陈弘立的Android应用开发作业
 ## 一：目录
-### 文件HolleWorld
+### 文件HolleWorldActivity
 运行Helloword程序
 ### Activity
 两个活动之间的转换
