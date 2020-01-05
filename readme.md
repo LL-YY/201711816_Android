@@ -1,11 +1,12 @@
 # 陈弘立的Android应用开发作业
 ## 一：目录
-### 文件ActivityText
+### 文件HolleWorld
 运行Helloword程序
-### 文件HelloWorld
+### Activity
 两个活动之间的转换
+四种启动模式
+### 文件HelloWorld
 隐式intent召唤浏览器，地图和拨号
-活动的切换方式
 ### RecyclerViewTest2
 增删改
 ### AndroidtThreadTest
